@@ -1,6 +1,7 @@
 super duper text + first branch
 edit first time 
-Master edit after second branch ++
+
 edit second time 1
 2
 edit first super branch
+Master edit after second branch ++
